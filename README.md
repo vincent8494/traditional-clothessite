@@ -4,7 +4,7 @@
 
 A comprehensive, responsive e-commerce website showcasing traditional clothing from various cultures worldwide. This project features a modern, dark-themed UI with smooth animations, optimized performance, and an intuitive user experience.
 
-🌐 **Live Demo:** [https://vincent8494.github.io/traditional-clothessite/](https://vincent8494.github.io/traditional-clothessite/)
+
 
 ![Website Hero Section](images/h.jpg)
 
