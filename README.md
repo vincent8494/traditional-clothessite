@@ -1,6 +1,6 @@
 # 🌍 Traditional Clothes E-commerce Platform
 
-[![Live Demo](https://img.shields.io/badge/View-Live%20Demo-brightgreen?style=for-the-badge)](https://vincent8494.github.io/traditional-clothessite/)
+
 
 A comprehensive, responsive e-commerce website showcasing traditional clothing from various cultures worldwide. This project features a modern, dark-themed UI with smooth animations, optimized performance, and an intuitive user experience.
 
